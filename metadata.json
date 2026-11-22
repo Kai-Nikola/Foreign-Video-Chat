@@ -1,0 +1,6 @@
+{
+  "name": "Voxa",
+  "description": "End-to-end encrypted messaging with real-time translated voice & video calls, secure file sharing, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
